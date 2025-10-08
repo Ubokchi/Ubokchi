@@ -1,14 +1,12 @@
-### ☕ Ubokchi's GitHub Dashboard (with Grade)
+### ☕ Ubokchi's GitHub Dashboard
 
 <table>
   <tr>
     <td>
-      <!-- 등급(B-, A 등) 포함한 프로필 요약 카드 -->
-      <img src="https://raw.githubusercontent.com/Ubokchi/Ubokchi/main/profile-summary-card-output/default/0-profile-details.svg" height="170" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Ubokchi&show_icons=true&rank_icon=percentile&include_all_commits=true&count_private=true&theme=tokyonight" height="170" />
     </td>
     <td>
-      <!-- 언어 카드 -->
-      <img src="https://raw.githubusercontent.com/Ubokchi/Ubokchi/main/profile-summary-card-output/default/1-repos-per-language.svg" height="170" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ubokchi&layout=compact&langs_count=6&theme=tokyonight" height="170" />
     </td>
   </tr>
 </table>
